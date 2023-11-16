@@ -1,0 +1,42 @@
+<! DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet"href="book.css">
+    </head>
+    <body>
+
+        <div class="pic">
+        
+        <img src="https://c1.wallpaperflare.com/preview/136/181/187/grass-green-background-nature.jpg" height="900px" width="900px">
+        
+        <div class="text">
+        <form>
+            <h1>FRIENDS BOOK</h1>
+            <label>Your Name:</label>
+            <input type="text"><br><br>
+            <label>1. A message  for me!</label><br><br>
+            <textarea class="A"></textarea><br><br>
+            <label>2. A nick name for me?</label><br><br>
+            <textarea  class="A"></textarea><br><br>
+            <label>3. Have you ever lied to me?</label><br>
+            <input type="radio"><label>Yes</label>
+            <input type="radio"><label>Maybe</label><br>
+            <label>4. How do you feel when you talk to me?</label><br>
+            <input type="radio"><label>Happy</label>
+            <input type="radio"><label>Irritated</label><br>
+            <label>5. Do you like to go on a roadtrip with me?</label><br>
+            <input type="radio"><label>Yes</label>
+            <input type="radio"><label>No</label><br>
+            <label>6. Best colour that suits me?</label><br>
+            <input type="checkbox"><label>red</label>
+            <input type="checkbox"><label>Black</label>
+            <input type="checkbox"><label>White</label>
+            <input type="checkbox"><label>Blue</label>
+            <input type="checkbox"><label>Green</label><br>
+            <label>7. The best moment in our Friendship?</label><br><br>
+            <textarea  class="A"></textarea>
+            </form>
+            </div>
+            </div>
+    </body>
+</html>
